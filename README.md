@@ -1,6 +1,7 @@
+
 <img src="./assets/yui.gif" width="160" align="right" alt="Yui">
 
-<h2>𝑽𝒊𝒊𝒌𝒍𝒚</h2>
+<p><big><big><big><strong>𝑽𝒊𝒊𝒌𝒍𝒚</strong></big></big></big></p>
 
 <p><i>Just a student who likes coding and anime.</i></p>
 
