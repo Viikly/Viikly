@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Viikly/Viikly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+## Hi, I'm Viikly! ٩(ˊᗜˋ*)و
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Just a student who likes coding and anime.
+
+</div>
+
+### 🌸 A little about me
+
+- 🎓 Software Engineering student in Germany
+- 💻 Sometimes I write code
+- 🍡 Anime, games & random little projects
+
+### 🌷 Languages
+
+- 🇨🇳 中文 — Native
+- 🇬🇧 English
+- 🇩🇪 Deutsch — Learning
+- 🇯🇵 日本語 — ちょっとだけ
+
+<div align="center">
+
+---
+
+よろしくね〜 ♡
+
+</div>
