@@ -1,19 +1,22 @@
-<img align="right" src="./assets/yui.gif" width="120" />
+<h1>𝑽𝒊𝒊𝒌𝒍𝒚</h1>
 
-## Hey, I'm Viikly!
+<p><i>Just a student who likes coding and anime.</i></p>
 
-𝒥𝓊𝓈𝓉 𝒶 𝓈𝓉𝓊𝒹𝑒𝓃𝓉 𝓌𝒽𝑜 𝓁𝒾𝓀𝑒𝓈 𝒸𝑜𝒹𝒾𝓃𝑔 𝒶𝓃𝒹 𝒶𝓃𝒾𝓂𝑒.
-
-Studying software engineering in Germany.
-
+<p>
+Studying software engineering in Germany.<br>
 Usually coding, gaming, or watching anime.
+</p>
 
-<br clear="right" />
+<p align="center">
+  <img src="./assets/yui.gif" width="140" alt="Yui Hirasawa">
+</p>
 
----
+<h3>Languages</h3>
 
-### Languages
-
+<p>
 中文 / English / Deutsch / 日本語（少しだけ）
+</p>
 
+<p>
 そんな感じ。
+</p>
