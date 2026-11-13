@@ -13,6 +13,11 @@ Probably playing games or working on something random.
 
 <h3>Languages</h3>
 
-<p>中文 / English / Deutsch / 日本語（少しだけ）</p>
+<p>
+中文 — Native<br>
+English<br>
+Deutsch — Learning<br>
+日本語 — ちょっとだけ
+</p>
 
 <p>そんな感じ。</p>
