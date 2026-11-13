@@ -1,29 +1,26 @@
-
 <div align="center">
 
-## Hi, I'm Viikly! ٩(ˊᗜˋ*)و
+## Hi, I'm Viikly!
 
 Just a student who likes coding and anime.
 
 </div>
 
-### 🌸 A little about me
+### About me
 
-- 🎓 Software Engineering student in Germany
-- 💻 Sometimes I write code
-- 🍡 Anime, games & random little projects
+- Software Engineering student in Germany
+- Interested in AI and web development
+- I play games and watch anime
 
-### 🌷 Languages
+### Languages
 
-- 🇨🇳 中文 — Native
-- 🇬🇧 English
-- 🇩🇪 Deutsch — Learning
-- 🇯🇵 日本語 — ちょっとだけ
+- 中文 — Native
+- English
+- Deutsch — Learning
+- 日本語 — ちょっとだけ
 
 <div align="center">
 
----
-
-よろしくね〜 ♡
+よろしくね！
 
 </div>
