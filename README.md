@@ -23,5 +23,5 @@ Deutsch — Learning<br>
 <p>そんな感じ。</p>
 
 <p align="center">
-  <img src="./assets/yui-walk.gif" width="800" alt="Yui walking">
+  <img src="./assets/yui_walk.gif" width="800" alt="Yui walking">
 </p>
