@@ -1,29 +1,27 @@
-<table>
-<tr>
-<td width="70%" valign="middle">
+<h1>𝑽𝒊𝒊𝒌𝒍𝒚</h1>
 
-<h2>Hi, I'm Viikly!</h2>
+<img src="./assets/yui.gif" width="115" align="right" alt="Yui">
 
-<p>Just a student who likes coding and anime.</p>
-
-<p>Software Engineering student in Germany.</p>
-
-</td>
-<td width="30%" align="center">
-
-<img src="./assets/yui.gif" width="180" alt="Yui Hirasawa">
-
-</td>
-</tr>
-</table>
+<p><i>Just a student who likes coding and anime.</i></p>
 
 <h3>About me</h3>
 
-<p>I like coding, anime, games, and working on random projects.</p>
+<p>
+Studying software engineering in Germany.<br>
+Probably playing games or working on something random.
+</p>
 
 <h3>Languages</h3>
 
-- 🇨🇳 中文 · Native
-- 🇬🇧 English
-- 🇩🇪 Deutsch · Learning
-- 🇯🇵 日本語 · ちょっとだけ
+<p>
+中文 — Native<br>
+English<br>
+Deutsch — Learning<br>
+日本語 — ちょっとだけ
+</p>
+
+<p>そんな感じ。</p>
+
+<p align="center">
+  <img src="./assets/yui-walk.gif" width="800" alt="Yui walking">
+</p>
