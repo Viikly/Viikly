@@ -4,9 +4,11 @@
 
 <p><i>Just a student who likes coding and anime.</i></p>
 
+<h3>About me</h3>
+
 <p>
 Studying software engineering in Germany.<br>
-Usually coding, gaming, or watching anime.
+Probably playing games or working on something random.
 </p>
 
 <h3>Languages</h3>
